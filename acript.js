@@ -1,0 +1,1 @@
+console.log("GitHub user profile finder app in Vanilla JavaScript.");
